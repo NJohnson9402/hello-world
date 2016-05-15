@@ -1,2 +1,3 @@
 # hello-world
-learning git
+I'm attempting to learn git.
+Seems like everybody's doing it.
